@@ -1,1 +1,1 @@
-# house_prediction.jypnb
+# house_prediction.jpynb
